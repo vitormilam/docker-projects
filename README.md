@@ -1,4 +1,4 @@
-# ☁️ Docker Projects
+# 🐳 Docker Projects
 
 This repository contains hands-on Docker projects completed as part of my DevOps learning journey.
 
