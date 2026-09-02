@@ -70,6 +70,8 @@ After:
 
 - exit
 
+### CHECKING PASSWORD in CONTAINER 1
+
 Now we need check the password in container 1
 
 - `docker start container1`
