@@ -10,3 +10,5 @@ This repository contains hands-on Docker projects completed as part of my DevOps
 * [04 — Dockerizing a Simple Python Flask Web Application](./projects/dockerizing-a-simple-python-flask-web-application/)
 * [05 — Dockerizing a Simple Node.js Application](./projects/dockerizing-a-simple-nodejs-application/)
 * [06 — Dockerizing a WordPress Site](./projects/dockerizing-a-wordpress-site/)
+* [07 — Dockerizing game Doom](./projects/dockerizing-doom/)
+* [08 — Create a Game using Docker and Deploy to AWS](./projects/create-a-game-using-docker-and-deploy-to-aws/)
