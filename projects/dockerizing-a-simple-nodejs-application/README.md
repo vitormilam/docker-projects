@@ -1,4 +1,4 @@
-# Project Name
+# Setting up a SSH connection between two containers
 
 ## Overview
 

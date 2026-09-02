@@ -1,29 +1,11 @@
-# Project Name
+# Setting Up an SSH Connection Between Two Ubuntu Containers in Docker
 
-## Overview
+This project demonstrates how to configure an SSH connection between two Ubuntu containers running in Docker.
+The first container is configured as an SSH server, while the second container acts as an SSH client, allowing them to communicate securely through the SSH protocol.
 
-Brief description of the project.
 
-## Objectives
+## Architecture
 
-- Objective 1
-- Objective 2
-- Objective 3
+<img src="./architecture.jpg" width="400">
 
-## Technologies
-
-- Docker
-- Docker Compose
-- Ubuntu
-
-## Project Structure
-
-## Build Instructions
-
-## Run Instructions
-
-## Verification
-
-## What I Learned
-
-## References
+## 
