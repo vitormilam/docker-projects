@@ -28,7 +28,7 @@ We need to start the machine and run some commands so our container has all we n
   <img src="./print_2.png" width="800">
 </p>
 
-Since it's in interact mode, we can install openssh-server and nano use later.
+Since it's in interact mode, we can install openssh-server and use nano later.
 
 
 ```bash
