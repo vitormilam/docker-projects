@@ -14,3 +14,16 @@ This project teaches:
 - Scalability
 - Security
 - Flexibility
+
+1° Criamos o docker file e adicionamos essas intruções dentro:
+Dockerfile
+FROM ubuntu:latest
+RUN apt-get update && apt-get install -y apache
+EXPOSE 80
+CMD ["apache2ctl", "-D", "FOREGROUND"]
+
+2° Para buildar essa imagem, executamos o commando:
+- docker build -t my-apache-image
+
+3° Para criarmos nosso container baseado na image que criamos:
+- docke run -p 80:80 my-apache-image
