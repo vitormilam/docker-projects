@@ -1,0 +1,16 @@
+Organograma
+
+                                                    Container Management        Container Networking
+                               ^ Docker Engine(Dockerd) -> Docker Container (Apache) -> Apache Web Server
+            HTTP Requests      |
+Web Browser -> Docker Host --->
+                               Docker API
+
+
+This project teaches:
+- Isolation
+- Consistency
+- Reproducibility
+- Scalability
+- Security
+- Flexibility

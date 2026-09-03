@@ -1,29 +1,13 @@
-# Project Name
+# Dockerizing a Nginx Web Server
 
-## Overview
+This project demonstrates the deployment of an Nginx web server using Docker.
 
-Brief description of the project.
 
-## Objectives
+## Architecture
 
-- Objective 1
-- Objective 2
-- Objective 3
+<p>
+  <img src="./architecture_overview.png" width="600">
+</p>
 
-## Technologies
 
-- Docker
-- Docker Compose
-- Ubuntu
-
-## Project Structure
-
-## Build Instructions
-
-## Run Instructions
-
-## Verification
-
-## What I Learned
-
-## References
+##
